@@ -1,12 +1,12 @@
 <a href="https://www.linkedin.com/in/progshahidul/" target="_blank" rel="noopener"><p align="center">  </a>
 
-# <h1 align="center">Hi<a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, I'm Al Mamun Khan</h1>
+# <h1 align="center">Hi<a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, I'm Shahidul Islam</h1>
 
-<h3 align="center">Web Specialist</h3>
+<h3 align="center">Junior web developer</h3>
 <br />
 <br />
 
-[![Github](https://img.shields.io/github/followers/progmamun?label=Follow&style=social)](https://github.com/progmamun)&nbsp;![Profile views](https://gpvc.arturio.dev/progmamun)
+[![Github](https://img.shields.io/github/followers/shahidul7150?label=Follow&style=social)](https://github.com/shahidul7150)&nbsp;![Profile views](https://gpvc.arturio.dev/shahidul7150)
 
 - I’m currently learning [Golang](https://golang.org/) And [DevOps](https://www.google.com/search?q=DevOps)
 
