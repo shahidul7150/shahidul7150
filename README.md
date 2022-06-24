@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/progshahidul/" target="_blank" rel="noopener"><p align="center">  </a>
+<a href="https://www.linkedin.com/in/progshahidul/" target="_blank" rel="noopener"><p align="center">  <img src="https://svgshare.com/i/i_Q.svg" alt="" />  </a>
 
 # <h1 align="center">Hi<a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, I'm Shahidul Islam</h1>
 
@@ -19,10 +19,10 @@
 <br /><br />
 
 <h3 align="center">Connect with me:</h3>
-<p align="center"><a href="mailto:shahidulislam1474@gmail.com" target="_blank" rel="noopener" ><img align="center" src="https://www.pngkey.com/png/full/84-840977_email-png-icon.png" height="30" width="30"/></a>&nbsp;<a href="https://www.linkedin.com/in/progshahidul/" target="_blank" rel="noopener"><img align="center" src="https://rawcdn.githack.com/progmamun/demo/bb7255483e0e917d6dab306620eb7ae8b94ba04c/storage/tempfiles/Asset%2019rgblogo.jpg" height="30" width="40" /></a><a href="https://twitter.com/progmamun/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="progmamun" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/progmamun/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="progmamun" height="30" width="40" /></a>
-<a href="https://www.facebook.com/AlmamunkhanDev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="AlmamunkhanDev" height="30" width="40" /></a>
-<a href="https://www.instagram.com/progmamun/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="progmamun" height="30" width="40" /></a>
+<p align="center"><a href="mailto:shahidulislam1474@gmail.com" target="_blank" rel="noopener" ><img align="center" src="https://www.pngkey.com/png/full/84-840977_email-png-icon.png" height="30" width="30"/></a>&nbsp;<a href="https://www.linkedin.com/in/progshahidul/" target="_blank" rel="noopener"><img align="center" src="https://rawcdn.githack.com/progmamun/demo/bb7255483e0e917d6dab306620eb7ae8b94ba04c/storage/tempfiles/Asset%2019rgblogo.jpg" height="30" width="40" /></a><a href="https://twitter.com/progshahidul" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shahidul" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/progshahidul/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahidul" height="30" width="40" /></a>
+<a href="https://www.facebook.com/progshahidul" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Shahidul" height="30" width="40" /></a>
+
 </p>
 <br>
 <br />
@@ -31,11 +31,11 @@
    <table>
    <h1 align="center">Github Stats</h1>
        <tr>
-       <td><img alt="progmamun :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=progmamun&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" /></td>
-       <td><img alt="progmamun :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=progmamun&langs_count=14&theme=blue-green&layout=compact&hide=html"> </td>
+       <td><img alt="shahidul7150 :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=shahidul7150&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" /></td>
+       <td><img alt="shahidul7150 :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahidul7150&langs_count=14&theme=blue-green&layout=compact&hide=html"> </td>
      </tr>
      <tr>
-        <td colspan="2" align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=progmamun&theme=blue-green&hide_border=true"></td>
+        <td colspan="2" align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=shahidul7150&theme=blue-green&hide_border=true"></td>
      </tr>
    </table>
 </p>
