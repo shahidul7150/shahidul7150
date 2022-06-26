@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/PTmQCVQ/link.png" alt="Welcome!" width="100%"/>
+<img src="https://i.ibb.co/PTmQCVQ/link.png" alt="Welcome" width="100%"/>
     
  <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Shahidul+Islam+%F0%9F%91%8B;Frontend+Developer;MERN+Stack+Developer;" alt="Headline" />
 
